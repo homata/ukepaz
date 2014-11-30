@@ -24,3 +24,8 @@ proguard/
 
 # Log Files
 *.log
+
+# homata
+00.SAVE/
+.DS_Store
+
