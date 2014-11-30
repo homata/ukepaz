@@ -77,3 +77,15 @@ $ ionic emulate ios
 $ ionic start ukedon sidemenu
 $ ionic setup sass
 $ ionic serve
+
+$ ionic platform add ios
+$ ionic platform add android
+
+$ ionic build ios
+$ ionic build android
+
+$ ionic emulate ios
+$ ionic emulate android
+
+$ ionic run ios
+$ ionic run android
